@@ -9,3 +9,10 @@ https://mybinder.org/v2/gh/luizirber/2018-desertos/master?filepath=Usando%20Pand
 Pivô:
 https://stackoverflow.com/questions/47152691/how-to-pivot-a-dataframe
 
+
+http://basedosdados.org/dataset/diretorio-municipios-brasileiros
+
+# https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
+
+# Gist de Códigos Úteis
+https://gist.github.com/fmasanori
