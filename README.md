@@ -14,7 +14,7 @@ De acordo com o material pelos mesmos disponibilizado:
 
 
 #### Dados
-Os dados utilizados aqui podem ser adquiridos em http://portal.inep.gov.br/microdados e são organizados separadamente em acordância do semestre avaliado.
+Os dados utilizados aqui podem ser adquiridos em http://portal.inep.gov.br/microdados e são organizados separadamente em acordância do semestre avaliado.    
 Pode-se notar que ao baixar o conjunto de dados referente ao ano de 2017, há dois arquivos cujo representam a avaliação aplicada na 3ª série do ensino médio:
  - `TS_ALUNO_3EM_AG` apresenta os dados para agregações superiores (estados, regiões e o país).
  - `TS_ALUNO_3EM_ESC` apresenta o resultado por escolas.    
@@ -25,10 +25,11 @@ Se você quiser executar este livro em sua máquina, é aconselhável ter no mí
 
 #### Execução do Material
 O trabalho por completo foi desenvolvido utilizando *Python 3.7, jupyter, pandas e matplotlib*. As dependências podem ser instaladas com o seguinte comando.   
-`pip install  -r requirements.txt`
+`pip install  -r requirements.txt`    
 Para executar o código é necessário utilizar `jupyter notebook` e abrir o arquivo `Livro.ipynb`.
 
-#### Referências Recomendados
-Aneb: https://aneb.com.br/
-INEP Microdados: http://portal.inep.gov.br/microdados
+#### Referências
+[Aneb](https://aneb.com.br/) (https://aneb.com.br/)    
+[INEP Microdados](http://portal.inep.gov.br/microdados) (http://portal.inep.gov.br/microdados)    
+[Pandas](https://github.com/pandas-dev/pandas) (https://github.com/pandas-dev/pandas) ou [Pandas Cheat Sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf) (https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
