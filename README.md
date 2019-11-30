@@ -1,6 +1,10 @@
 # AnaliseANEB
 
 ![python3](https://img.shields.io/badge/python-3.7-green)
+![jupyter](https://img.shields.io/badge/jupyter-1.0-informational)
+![pandas](https://img.shields.io/badge/pandas-0.24.2-informational)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.1.0-informational)
+
 
 Este trabalho propõe uma breve análise sobre os indicadores do Sistema Nacional de Avaliação da Educação Básica (ANEB), aplicada sobre o 5º e 9º ano do ensino fundamental e 3º ano ensino médio.
 ##### Aneb
@@ -13,8 +17,9 @@ Os dados utilizados aqui podem ser adquiridos em http://portal.inep.gov.br/micro
 Se você quiser executar este livro em sua máquina, é aconselhável ter no mínimo 8GB de RAM instaladas.
 
 ##### Execução do Material
-
+O trabalho por completo foi desenvolvido utilizando *Python 3.7, jupyter, pandas e matplotlib*. As dependências podem ser instaladas com o seguinte comando.   
 `pip install  -r requirements.txt`
+Para executar o código é necessário utilizar `jupyter notebook` e abrir o arquivo `Livro.ipynb`.
 
 ##### Referências Recomendados
 Aneb: https://aneb.com.br/
