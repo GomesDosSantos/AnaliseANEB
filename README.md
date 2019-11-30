@@ -20,10 +20,10 @@ Pode-se notar que ao baixar o conjunto de dados referente ao ano de 2017, há do
  - `TS_ALUNO_3EM_ESC` apresenta o resultado por escolas.    
 Portanto, optou-se por ler apenas o `TS_ALUNO_3EM_ESC`.
 
-#### Notas importantes
-Se você quiser executar este livro em sua máquina, é aconselhável ter no mínimo 8GB de RAM instaladas.
-
 #### Execução do Material
+
+###### Se você quiser executar este livro em sua máquina, é aconselhável ter no mínimo 8GB de RAM instaladas.
+
 O trabalho por completo foi desenvolvido utilizando *Python 3.7, jupyter, pandas e matplotlib*. As dependências podem ser instaladas com o seguinte comando.   
 `pip install  -r requirements.txt`    
 Para executar o código é necessário utilizar `jupyter notebook` e abrir o arquivo `Livro.ipynb`.
