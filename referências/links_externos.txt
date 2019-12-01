@@ -9,8 +9,12 @@ https://mybinder.org/v2/gh/luizirber/2018-desertos/master?filepath=Usando%20Pand
 Piv�:
 https://stackoverflow.com/questions/47152691/how-to-pivot-a-dataframe
 
-Técnicas para Consumir Menos Memória Utilizando Pandas
+Técnicas para Consumir Menos Memória Utilizando Pandas:
 https://stackoverflow.com/questions/39100971/how-do-i-release-memory-used-by-a-pandas-dataframe
+
+DataFrames Multi-Indexados:
+https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.xs.html
+
 
 
 http://basedosdados.org/dataset/diretorio-municipios-brasileiros
