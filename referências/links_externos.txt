@@ -6,13 +6,16 @@ Pandas, Sqlite, joins:
 https://mybinder.org/v2/gh/luizirber/2018-desertos/master?filepath=Usando%20Pandas%20para%20encontrar%20os%20desertos%20de%20not%C3%ADcias%20no%20Brasil.ipynb
 
 
-Pivô:
+Pivï¿½:
 https://stackoverflow.com/questions/47152691/how-to-pivot-a-dataframe
+
+TÃ©cnicas para Consumir Menos MemÃ³ria Utilizando Pandas
+https://stackoverflow.com/questions/39100971/how-do-i-release-memory-used-by-a-pandas-dataframe
 
 
 http://basedosdados.org/dataset/diretorio-municipios-brasileiros
 
 # https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners
 
-# Gist de Códigos Úteis
+# Gist de Cï¿½digos ï¿½teis
 https://gist.github.com/fmasanori
